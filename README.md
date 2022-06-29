@@ -1,10 +1,18 @@
-# Project-csweb
+# Project-csweb -> 음성 데이터 비식별화 웹서비스로 변경 
 
 ## 기술 스택
-html, cs, js, django, aws(목표)
+html, cs, js, django, aws, pytorch, docker
 
 ## 주제 
 CS 지식을 검토할 수 있는 웹 
 
 ## 프로젝트 일정 
+### 3월 
+딥러닝 모델 구축 및 멘토링
+### 4월
+딥러닝 모델 학습 및 평가
+프론트엔드 완성
+### 5월
+백엔드 완성
 ### 6월 
+마무리 
