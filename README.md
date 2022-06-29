@@ -4,7 +4,7 @@
 html, cs, js, django, aws, pytorch, docker
 
 ## 주제 
-CS 지식을 검토할 수 있는 웹 
+개인정보 비식별화 처리 웹 서비스
 
 ## 프로젝트 일정 
 ### 3월 
